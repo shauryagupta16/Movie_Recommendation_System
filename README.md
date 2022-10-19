@@ -12,7 +12,10 @@ app link: https://movie-recommendation-system-wa.herokuapp.com/
 
 
 ![HOME PAGE](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(203).png)
-
+![MAIN PAGE](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(204).png)
+![CAST SECTION](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(205).png)
+![REVIEW SECTION](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(206).png)
+![MOVIE RECOMMENDATION SECTION](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(207).png)
 
 ## Overview
 
