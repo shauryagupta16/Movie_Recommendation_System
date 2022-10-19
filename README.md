@@ -11,7 +11,7 @@ A content-based recommender system that recommends movies similar to the movie t
 app link: https://movie-recommendation-system-wa.herokuapp.com/
 
 
-[HOME PAGE]()
+![HOME PAGE](https://github.com/shauryagupta16/Movie_Recommendation_System/blob/main/static/Screenshot%20(203).png)
 
 
 ## Overview
